@@ -19,3 +19,4 @@ We are glad that you want to contribute to the material! You will find more info
 ## Maintainers
 
 The Data Management Skillbuilding Hub webpage and repository are maintained by the Community Engagement and Outreach Working Group at DataONE. Please open an issue If you have a question or concern, please open an <a href="https://github.com/DataONEorg/Education/issues" target="_blank">Issue</a>.
+
