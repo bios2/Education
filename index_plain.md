@@ -1,9 +1,9 @@
 ---
-title: DataONE lessons
+title: BIOS2 lessons
 layout: index
 ---
 
-# DataONE Data Management Education Modules
+# BIOS2 Data Management Education Modules
 
 {% comment %}
 The following part extracts all the tags from the lessons
