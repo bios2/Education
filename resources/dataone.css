@@ -28,7 +28,7 @@ a {
   text-decoration: none;
 }
 
-/* 
+/*
    font size is overridden by the default remark css that is injected by
    the remark script when converting the markdown to html.
 
@@ -36,7 +36,7 @@ a {
 */
 h1 {
   font-weight: bold;
-  color: #660033;
+  color: #228B22;
   margin: 0 0 0 0;
 }
 h2,
@@ -44,14 +44,14 @@ h3,
 h4,
 h5,
 h6 {
-  color: #660033;
+  color: #228B22;
   margin: 0 0 0 0;
 }
 
 
 footer {
   font-size: 80%;
-  color: #660033;
+  color: #228B22;
   opacity: 0.5;
   font-style: italic;
 }
@@ -138,8 +138,8 @@ img {
 }
 
 
-/* 
-Overrides for the default remark css properties 
+/*
+Overrides for the default remark css properties
 */
 .remark-slide-content.title {
   background-color: #006666;
@@ -223,15 +223,15 @@ img + em {
 }
 
 img + em a {
-    color: #660033;
+    color: #228B22;
     text-decoration: none;
     border-bottom: 1px dashed #ccc
 }
 
 img + em a:hover {
-    color: #660033;
+    color: #228B22;
     text-decoration: none;
-    border-bottom: 1px dashed #660033
+    border-bottom: 1px dashed #228B22
 }
 
 /* Resize graphic to fit image */
@@ -268,4 +268,3 @@ blockquote p {
     color: #272822;
     font-style: italic
 }
-
