@@ -1,4 +1,4 @@
-title: BIOS2 training materials
+title: BIOS2 training: materials
 email: https://www.dataone.org/contact
 description: > # this means to ignore newlines until "baseurl:"
   The BIOS2 online resources contain lessons, slides and reference material describing computation tools for biodiversity science. These resources are intended for researchers and students, and are created by scientists associated with BIOS2.
@@ -35,7 +35,7 @@ exclude:
   - "_lessons/remark2pdf"
 
 # Format for the slides, can be either 16:9 or 4:3
-format: '4:3'
+format: '16:9'
 
 # Collections
 collections:
