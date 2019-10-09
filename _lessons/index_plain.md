@@ -1,5 +1,5 @@
 ---
-title: DataONE lessons
+title: BIOS2 Training
 layout: index
 ---
 
@@ -46,7 +46,7 @@ Removes duplicated tags
 {% endfor %}
 
 {% comment %}
-Show the tags 
+Show the tags
 {% endcomment %}
 
 ## Tags
