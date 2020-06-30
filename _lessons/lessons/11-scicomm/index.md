@@ -13,7 +13,7 @@ categories: ["Teaching Module"]
 prevlesson: 10_policy
 nextlesson: 00_markdown
 ppt: 11_SciComm_Basics.pdf
-exercise: [Exercise_GoldenCircle.pdf, 11_SciComm_Basics.pdf]
+exercise: Exercise_GoldenCircle.pdf
 
 ---
 
