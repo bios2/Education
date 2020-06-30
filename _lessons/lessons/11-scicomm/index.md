@@ -1,15 +1,21 @@
---------------------------------------------------------------------------------
+---
+title: Science Communication
+author: 'Gracielle Higino, Katherine Hébert'
+organization: BIOS2
+org_url: '<http://www.dataone.org>'
+org_logo: DataONE.png
+update: 2020-06-15
+layout: lesson_cover
+status: published
+version: 1
+tags: ["Science Communication", SciComm, Storytelling, "Social media", Twitter, Blog]
+categories: ["Teaching Module"]
+prevlesson: 10_policy
+nextlesson: 00_markdown
+ppt: 11_SciComm_Basics.pdf
+exercise: Exercise_GoldenCircle.pdf
 
-title: Science Communication author: 'Gracielle Higino, Katherine Hébert' organization: BIOS2 org_url: '<http://www.dataone.org>' org_logo: DataONE.png update: 2020-06-15 layout: lesson_cover status: published version: 1 tags:
-
-- Science Communication
-- SciComm
-- Storytelling
-- Social media
-- Twitter
-- Blog categories: - Teaching Module prevlesson: 10_policy nextlesson: 00_markdown ppt: 11_SciComm_Basics.pdf exercise: Exercise_GoldenCircle.pdf
-
---------------------------------------------------------------------------------
+---
 
 Science Communication!
 
