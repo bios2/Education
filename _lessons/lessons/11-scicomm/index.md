@@ -19,7 +19,7 @@ categories:
   - Teaching Module
 prevlesson: 10_policy
 nextlesson: 00_markdown
-datafiles: activities.zip
+datafiles: SciComm_Material.zip
 ---
 
 Science Communication!
