@@ -17,8 +17,8 @@ tags:
   - Blog
 categories:
   - Teaching Module
-prevlesson: 10_policy
-nextlesson: 00_markdown
+prevlesson: 00_markdown
+nextlesson: 02_datasharing
 datafiles: SciComm_Material.zip
 ---
 
