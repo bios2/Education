@@ -22,14 +22,13 @@ nextlesson: 02_datasharing
 datafiles: SciComm_Material.zip
 ---
 
-Science Communication!
-
 The objective of this training is to share and discuss the concepts and tools that contribute to effective science communication. The training is split into two sessions, which cover the basic concepts of effective science communication and how social media tools can be used to boost the signal of your research and extend your research network. Each training takes the form of a presentation interspersed with several short activity modules, where participants are invited to use the tools we will be discussing to kickstart their own science communication.
 
 This training was given on June 1 and 2, 2020\. You can view recordings of each session here:
 
 Day 1: <https://youtu.be/MJCXqsnlHZg><br>
-Day 2: <https://youtu.be/Xo7bbJpj4PQ>
+Day 2: <https://youtu.be/Xo7bbJpj4PQ><br>
+Training materials can be downloaded as "Supporting Data Files" at the top of the page.
 
 Session 1: The basics of science communication
 
