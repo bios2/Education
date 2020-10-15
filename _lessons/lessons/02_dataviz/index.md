@@ -30,7 +30,10 @@ More specifically, this training:
 
 You can find the recordings of each session here:
 
-1. Day 1 - Principles of data visualization: <https://youtu.be/Aka3x_7WHnQ>
-2. Day 2 - Tailoring visualizations: <https://youtu.be/Cd_nRPEzIuk>
+1. Day 1 - Principles of data visualization: <https://youtu.be/Aka3x_7WHnQ><br>
 
-Annotated resource library: <https://katherinehebert.github.io/BIOS2_DataViz/> Scripts to reproduce example figures: <https://github.com/katherinehebert/BIOS2_DataViz>
+2. Day 2 - Tailoring visualizations: <https://youtu.be/Cd_nRPEzIuk><br>
+
+Annotated resource library: <https://katherinehebert.github.io/BIOS2_DataViz/><br>
+Scripts to reproduce example figures: <https://github.com/katherinehebert/BIOS2_DataViz><br>
+Training materials (slides, activities) can be downloaded as "Supporting Data Files" at the top of the page.
